@@ -2,3 +2,5 @@ stradle
 long strangle 
 bullish
 bearish
+bank nifty
+nifty 50
